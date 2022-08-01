@@ -1,0 +1,9 @@
+<resources>
+    <!--
+    <string name="app_name">Dice Roll</string>
+    -->
+    <string name="app_name">Dice Roll</string>
+    <string name="button_Lanzar">¡Lanzar!</string>
+    <string name="text_Welcome">Welcome!</string>
+    <string name="string_imagen_dado">string/imagen_Dado</string>
+</resources>
